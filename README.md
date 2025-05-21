@@ -30,9 +30,9 @@
 ## MongoDB, PostgreSQL, Redis
 
 ## 🌐 Connect With Me
-## 📧 Email: moazalhosne9@gmail.com
+ 📧 Email: moazalhosne9@gmail.com
 
-## 🧑‍💻 GitHub: github.com/Moaz-Alhasani
+ 🧑‍💻 GitHub: github.com/Moaz-Alhasani
 
 ## 🔭 Looking For
 ## I'm open to exciting opportunities in AI research, NLP engineering, or backend systems development—especially projects where I can contribute to building smart, scalable, real-world AI solutions.
