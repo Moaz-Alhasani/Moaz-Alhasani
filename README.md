@@ -28,6 +28,8 @@ Experienced in putting ML/NLP models into production, with interest in cloud com
 ### Backend  
 - Node.js (Express.js), TypeScript  
 - REST APIs, Microservices, Authentication (JWT, OAuth)
+- Django Rest Framework
+- NestJs
 
 ### Databases  
 - MongoDB, PostgreSQL, Redis
